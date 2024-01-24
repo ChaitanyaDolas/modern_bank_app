@@ -1,6 +1,7 @@
 # Modern Banking App in ReactJS
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This site is deployed here:
+https://warm-palmier-6db7e3.netlify.app/
 
 Currently, two official plugins are available:
 
